@@ -150,6 +150,12 @@ http://localhost:3000/2/divide/3
 ```
 ![divide](https://github.com/Priyanshumg/Kalvium_assessment/blob/72120b4a5cc49ee70a1ab67528a3d57842f8c7dd/Backend%20Task/Images/Functionality%206%20(divide).png)
 
+* Server Shutdwon (/shutdown)
+```bash
+http://localhost:3000/shutdown
+```
+![shutdown](https://github.com/Priyanshumg/Kalvium_assessment/blob/54327b4b4917fbb52471026bf76c3332bb0d8717/Backend%20Task/Images/Functionality%207%20(shutdown).png)
+
 We can use multiple variables to perform all these operations.\
 `note:- The functions are case sensitive`
 
